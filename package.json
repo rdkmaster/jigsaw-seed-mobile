@@ -1,5 +1,5 @@
 {
-  "name": "Jigsaw-Seed",
+  "name": "Jigsaw-Seed-Mobile",
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
@@ -10,7 +10,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
-  "private": true,
+  "private": false,
   "dependencies": {
     "@angular/animations": "~5.2.11",
     "@angular/common": "~5.2.11",
@@ -21,7 +21,7 @@
     "@angular/platform-browser-dynamic": "~5.2.11",
     "@angular/router": "~5.2.11",
     "@ngx-translate/core": "~v8.0.0",
-    "@rdkmaster/jigsaw-mobile": "^1.0.0-beta1",
+    "@rdkmaster/jigsaw": "^1.1.23",
     "core-js": "~2.5.7",
     "echarts": "~3.5.2",
     "eonasdan-bootstrap-datetimepicker": "~4.17.47",
