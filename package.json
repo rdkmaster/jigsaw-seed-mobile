@@ -33,7 +33,9 @@
     "rxjs": "~5.5.12",
     "web-animations-js": "~2.3.1",
     "zone.js": "~0.8.29",
-    "ztree": "~3.5.24"
+    "ztree": "~3.5.24",
+    "jszip": "3.2.1",
+    "file-saver": "~2.0.1"
   },
   "devDependencies": {
     "@angular/cli": "1.6.8",
